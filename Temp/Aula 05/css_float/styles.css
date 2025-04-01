@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+div {
+    display: inline-block;
+    width: 30%;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: 14pt;
+}
+
+.gato {
+    background-color: red;
+    display: block;
+    position: absolute;
+}
+
+.cachorro {
+    background-color: darkred;
+    display:  block;
+    position: absolute;
+    left: 850px;
+}
+
+#imagem-gato {
+    float: left;
+}
+
+#imagem-cachorro {
+    float: right;
+}
