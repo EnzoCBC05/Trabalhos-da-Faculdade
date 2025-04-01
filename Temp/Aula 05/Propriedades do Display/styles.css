@@ -1,0 +1,68 @@
+p{
+    color: white;
+}
+
+.vermelho1 {
+    height: 200px;
+    width: 200px;
+    background-color: darkred;
+    display: inline-block;
+}
+
+.verde1 {
+    height: 200px;
+    width: 200px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+
+.roxo1 {
+    height: 200px;
+    width: 200px;
+    background-color: darkslateblue;
+    display: inline-block;
+}
+
+/*A opção do display (inline-block) mantém todos os elementos na mesma linha*/
+
+.vermelho2 {
+    height: 200px;
+    width: 200px;
+    background-color: darkred;
+    display: block;
+}
+
+.verde2 {
+    height: 200px;
+    width: 200px;
+    background-color: darkgreen;
+    display: block;
+}
+
+.roxo2 {
+    height: 200px;
+    width: 200px;
+    background-color: darkslateblue;
+    display: block;
+}
+
+.vermelho3 {
+    background-color: darkred;
+    display: inline;
+}
+
+.verde3 {
+    background-color: darkgreen;
+    display: inline;
+}
+
+.roxo3 {
+    background-color: darkslateblue;
+    display: inline;
+}
+
+
+
+
+/* A opção de display (inline) otimiza o elemento, ou seja, só usa o espaço necessário para apresentar o elemento em questão*/
+
